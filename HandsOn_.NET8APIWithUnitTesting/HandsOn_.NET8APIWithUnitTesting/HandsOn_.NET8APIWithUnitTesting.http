@@ -1,0 +1,6 @@
+@HandsOn_.NET8APIWithUnitTesting_HostAddress = http://localhost:5147
+
+GET {{HandsOn_.NET8APIWithUnitTesting_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

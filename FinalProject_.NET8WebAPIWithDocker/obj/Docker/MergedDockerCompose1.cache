@@ -1,0 +1,130 @@
+name: dockercompose6815945019280524947
+services:
+  db:
+    container_name: db
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_PASSWORD: kaushik@123
+      POSTGRES_USER: postgres
+    image: postgres:12
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 5432
+      published: "5432"
+      protocol: tcp
+    volumes:
+    - type: volume
+      source: pgdata
+      target: /var/lib/postgresql/data
+      volume: {}
+  finalproject_.net8webapiwithdocker:
+    build:
+      context: C:\Users\knatua\source\repos\FinalProject_.NET8WebAPIWithDocker
+      dockerfile: FinalProject_.NET8WebAPIWithDocker/Dockerfile
+      args:
+        BUILD_CONFIGURATION: Debug
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: FinalProject_.NET8WebAPIWithDocker
+      target: base
+    container_name: FinalProject_.NET8WebAPIWithDocker
+    depends_on:
+      db:
+        condition: service_started
+    entrypoint:
+    - dotnet
+    - --roll-forward
+    - Major
+    - /VSTools/DistrolessHelper/DistrolessHelper.dll
+    - --wait
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      ConnectionStrings__DefaultConnection: Host=db;Port=5432;Database=postgres;Username=postgres;Password=kaushik@123
+      DOTNET_USE_POLLING_FILE_WATCHER: "1"
+      NUGET_FALLBACK_PACKAGES: ""
+    image: finalprojectnet8webapiwithdocker:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /.nuget/packages  "/app/bin/Debug/net8.0/FinalProject_.NET8WebAPIWithDocker.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: dotnet --roll-forward Major
+        /VSTools/DistrolessHelper/DistrolessHelper.dll --stop dotnet
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "8080"
+      protocol: tcp
+    - mode: ingress
+      target: 8080
+      protocol: tcp
+    tty: true
+    volumes:
+    - type: bind
+      source: C:\Users\knatua\source\repos\FinalProject_.NET8WebAPIWithDocker\FinalProject_.NET8WebAPIWithDocker
+      target: /app
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\knatua\source\repos\FinalProject_.NET8WebAPIWithDocker
+      target: /src
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\knatua\vsdbg\vs2017u5
+      target: /remote_debugger
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\knatua\.nuget\packages
+      target: /.nuget/packages
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\knatua\AppData\Roaming\ASP.NET\Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\knatua\AppData\Roaming\ASP.NET\Https
+      target: /home/app/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\knatua\AppData\Roaming\Microsoft\UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\knatua\AppData\Roaming\Microsoft\UserSecrets
+      target: /home/app/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Sdks\Microsoft.Docker.Sdk\tools\linux-x64\net8.0
+      target: /VSTools
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\HotReload
+      target: /HotReloadAgent
+      read_only: true
+      bind:
+        create_host_path: true
+networks:
+  default:
+    name: dockercompose6815945019280524947_default
+volumes:
+  pgdata:
+    name: dockercompose6815945019280524947_pgdata

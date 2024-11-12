@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f2Yi78DLL13m21EtJDIDbpUghs5f1XyzqcTJthZKOQg=",
+  "Source": "APIWithPostgreDocker",
+  "BasePath": "_content/APIWithPostgreDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

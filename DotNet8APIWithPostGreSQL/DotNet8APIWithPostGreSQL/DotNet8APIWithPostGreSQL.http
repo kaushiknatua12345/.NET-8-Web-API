@@ -1,0 +1,6 @@
+@DotNet8APIWithPostGreSQL_HostAddress = http://localhost:5283
+
+GET {{DotNet8APIWithPostGreSQL_HostAddress}}
+Accept: application/json
+
+###

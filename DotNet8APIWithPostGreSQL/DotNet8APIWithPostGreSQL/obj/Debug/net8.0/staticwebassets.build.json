@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AvPoOO7rvWyD1WavnmK7nqwl3FIVMK1GJjaKUQYo0ss=",
+  "Source": "DotNet8APIWithPostGreSQL",
+  "BasePath": "_content/DotNet8APIWithPostGreSQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

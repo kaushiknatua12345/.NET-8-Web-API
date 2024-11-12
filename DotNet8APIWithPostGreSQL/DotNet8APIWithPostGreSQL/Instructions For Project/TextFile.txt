@@ -1,0 +1,33 @@
+﻿1. Add the below nugget pacage to your project by running the below command in poweshell
+dotnet tool install --global dotnet-ef
+
+2. Then add the below nugget pacage to your project by running the below command in poweshell / using nugget package manager
+(a) dotnet add package Microsoft.EntityFrameworkCore
+(b) dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
+(c) dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL.Design
+(d) dotnet add package Microsoft.EntityFrameworkCore.Tools
+(e) Swashbuckle.AspNetCore.SwaggerUI
+(f) Swashbuckle.AspNetCore.SwaggerGen
+
+3. Add Model Class with Properties
+
+4. Add DbContext Class
+
+5. Add Connection String in appsettings.json for PostgreSQL
+
+6. Configure DbContext in Program.cs. Also add Swagger Configuration in Program.cs
+
+7. Add Controller Class with CRUD Operations using Entity Framework Core
+
+8. Add Migrations: (Open PowerShell in the project folder)
+(a) dotnet ef migrations add InitialCreate
+(b) dotnet ef database update
+
+9. Add Swagger UI for API Documentation
+
+10. Run the Application (example url: http://localhost:5283/api/Employees)
+
+11. Test the API using Swagger UI (example url: http://localhost:5283/swagger/index.html)
+
+
+

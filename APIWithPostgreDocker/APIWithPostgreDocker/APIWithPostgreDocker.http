@@ -1,0 +1,6 @@
+@APIWithPostgreDocker_HostAddress = http://localhost:5128
+
+GET {{APIWithPostgreDocker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

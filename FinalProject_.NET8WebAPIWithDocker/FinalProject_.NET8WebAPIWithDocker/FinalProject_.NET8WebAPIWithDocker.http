@@ -1,0 +1,6 @@
+@FinalProject_.NET8WebAPIWithDocker_HostAddress = http://localhost:5285
+
+GET {{FinalProject_.NET8WebAPIWithDocker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

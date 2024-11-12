@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HandsOn_.NET8APIWithUnitTesting.props" />
+</Project>

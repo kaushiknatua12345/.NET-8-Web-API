@@ -1,0 +1,48 @@
+services:
+  apiwithpostgredocker:
+    build:
+      context: C:\Users\knatua\source\repos\APIWithPostgreDocker
+      dockerfile: APIWithPostgreDocker/Dockerfile
+    container_name: apiwithpostgre_app
+    depends_on:
+      db:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ConnectionStrings__DefaultConnection: Host=db;Database=postgres;Username=postgres;Password=kaushik@123
+    image: apiwithpostgredocker
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 6156
+      protocol: tcp
+    - mode: ingress
+      target: 8080
+      protocol: tcp
+  db:
+    container_name: db
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_PASSWORD: kaushik@123
+      POSTGRES_USER: postgres
+    image: postgres:12
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 5432
+      published: 5432
+      protocol: tcp
+    volumes:
+    - type: volume
+      source: pgdata
+      target: /var/lib/postgresql/data
+      volume: {}
+networks:
+  default:
+    name: dockercompose11859776735482520216_default
+volumes:
+  pgdata:
+    name: dockercompose11859776735482520216_pgdata

@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|c:\\users\\knatua\\source\\repos\\finalproject_.net8webapiwithdocker\\finalproject_.net8webapiwithdocker\\sqltablecode.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|solutionrelative:finalproject_.net8webapiwithdocker\\sqltablecode.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|c:\\users\\knatua\\source\\repos\\finalproject_.net8webapiwithdocker\\finalproject_.net8webapiwithdocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|solutionrelative:finalproject_.net8webapiwithdocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|c:\\users\\knatua\\source\\repos\\finalproject_.net8webapiwithdocker\\finalproject_.net8webapiwithdocker\\models\\insurancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|solutionrelative:finalproject_.net8webapiwithdocker\\models\\insurancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|c:\\users\\knatua\\source\\repos\\finalproject_.net8webapiwithdocker\\finalproject_.net8webapiwithdocker\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|solutionrelative:finalproject_.net8webapiwithdocker\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55DEAE5-76FF-4DF9-9E25-DD71A8E91068}|docker-compose.dcproj|c:\\users\\knatua\\source\\repos\\finalproject_.net8webapiwithdocker\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C55DEAE5-76FF-4DF9-9E25-DD71A8E91068}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|c:\\users\\knatua\\source\\repos\\finalproject_.net8webapiwithdocker\\finalproject_.net8webapiwithdocker\\controllers\\insurancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|solutionrelative:finalproject_.net8webapiwithdocker\\controllers\\insurancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|c:\\users\\knatua\\source\\repos\\finalproject_.net8webapiwithdocker\\finalproject_.net8webapiwithdocker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|solutionrelative:finalproject_.net8webapiwithdocker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|c:\\users\\knatua\\source\\repos\\finalproject_.net8webapiwithdocker\\finalproject_.net8webapiwithdocker\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|solutionrelative:finalproject_.net8webapiwithdocker\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|c:\\users\\knatua\\source\\repos\\finalproject_.net8webapiwithdocker\\finalproject_.net8webapiwithdocker\\data\\insurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|solutionrelative:finalproject_.net8webapiwithdocker\\data\\insurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|c:\\users\\knatua\\source\\repos\\finalproject_.net8webapiwithdocker\\finalproject_.net8webapiwithdocker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6C64CB2-4C18-4D7B-8263-B7EF74EA5C91}|FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker.csproj|solutionrelative:finalproject_.net8webapiwithdocker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLTableCode.txt",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\SQLTableCode.txt",
+              "RelativeDocumentMoniker": "FinalProject_.NET8WebAPIWithDocker\\SQLTableCode.txt",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\SQLTableCode.txt",
+              "RelativeToolTip": "FinalProject_.NET8WebAPIWithDocker\\SQLTableCode.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-08T09:17:25.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\Program.cs",
+              "RelativeDocumentMoniker": "FinalProject_.NET8WebAPIWithDocker\\Program.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\Program.cs",
+              "RelativeToolTip": "FinalProject_.NET8WebAPIWithDocker\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:56:28.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalProject_.NET8WebAPIWithDocker\\appsettings.json",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\appsettings.json",
+              "RelativeToolTip": "FinalProject_.NET8WebAPIWithDocker\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T05:49:28.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsuranceController.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\Controllers\\InsuranceController.cs",
+              "RelativeDocumentMoniker": "FinalProject_.NET8WebAPIWithDocker\\Controllers\\InsuranceController.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\Controllers\\InsuranceController.cs",
+              "RelativeToolTip": "FinalProject_.NET8WebAPIWithDocker\\Controllers\\InsuranceController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAADYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:43:00.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "FinalProject_.NET8WebAPIWithDocker\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\Repositories\\Repository.cs",
+              "RelativeToolTip": "FinalProject_.NET8WebAPIWithDocker\\Repositories\\Repository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:40:16.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "FinalProject_.NET8WebAPIWithDocker\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "FinalProject_.NET8WebAPIWithDocker\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:39:23.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InsuranceContext.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\Data\\InsuranceContext.cs",
+              "RelativeDocumentMoniker": "FinalProject_.NET8WebAPIWithDocker\\Data\\InsuranceContext.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\Data\\InsuranceContext.cs",
+              "RelativeToolTip": "FinalProject_.NET8WebAPIWithDocker\\Data\\InsuranceContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:22:35.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsuranceModel.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\Models\\InsuranceModel.cs",
+              "RelativeDocumentMoniker": "FinalProject_.NET8WebAPIWithDocker\\Models\\InsuranceModel.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\Models\\InsuranceModel.cs",
+              "RelativeToolTip": "FinalProject_.NET8WebAPIWithDocker\\Models\\InsuranceModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:57:23.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-08T06:02:58.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\Dockerfile",
+              "RelativeDocumentMoniker": "FinalProject_.NET8WebAPIWithDocker\\Dockerfile",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\FinalProject_.NET8WebAPIWithDocker\\FinalProject_.NET8WebAPIWithDocker\\Dockerfile",
+              "RelativeToolTip": "FinalProject_.NET8WebAPIWithDocker\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-08T06:02:34.377Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

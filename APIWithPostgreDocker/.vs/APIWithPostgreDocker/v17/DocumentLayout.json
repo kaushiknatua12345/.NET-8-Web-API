@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7701958-4C04-4C6D-890B-15252BF4F7FE}|APIWithPostgreDocker\\APIWithPostgreDocker.csproj|c:\\users\\knatua\\source\\repos\\apiwithpostgredocker\\apiwithpostgredocker\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7701958-4C04-4C6D-890B-15252BF4F7FE}|APIWithPostgreDocker\\APIWithPostgreDocker.csproj|solutionrelative:apiwithpostgredocker\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7701958-4C04-4C6D-890B-15252BF4F7FE}|APIWithPostgreDocker\\APIWithPostgreDocker.csproj|c:\\users\\knatua\\source\\repos\\apiwithpostgredocker\\apiwithpostgredocker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7701958-4C04-4C6D-890B-15252BF4F7FE}|APIWithPostgreDocker\\APIWithPostgreDocker.csproj|solutionrelative:apiwithpostgredocker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7701958-4C04-4C6D-890B-15252BF4F7FE}|APIWithPostgreDocker\\APIWithPostgreDocker.csproj|c:\\users\\knatua\\source\\repos\\apiwithpostgredocker\\apiwithpostgredocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7701958-4C04-4C6D-890B-15252BF4F7FE}|APIWithPostgreDocker\\APIWithPostgreDocker.csproj|solutionrelative:apiwithpostgredocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73246A7-0566-4CF2-973C-3F7DE5EFF293}|docker-compose.dcproj|c:\\users\\knatua\\source\\repos\\apiwithpostgredocker\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A73246A7-0566-4CF2-973C-3F7DE5EFF293}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73246A7-0566-4CF2-973C-3F7DE5EFF293}|docker-compose.dcproj|c:\\users\\knatua\\source\\repos\\apiwithpostgredocker\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A73246A7-0566-4CF2-973C-3F7DE5EFF293}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7701958-4C04-4C6D-890B-15252BF4F7FE}|APIWithPostgreDocker\\APIWithPostgreDocker.csproj|c:\\users\\knatua\\source\\repos\\apiwithpostgredocker\\apiwithpostgredocker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7701958-4C04-4C6D-890B-15252BF4F7FE}|APIWithPostgreDocker\\APIWithPostgreDocker.csproj|solutionrelative:apiwithpostgredocker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7701958-4C04-4C6D-890B-15252BF4F7FE}|APIWithPostgreDocker\\APIWithPostgreDocker.csproj|c:\\users\\knatua\\source\\repos\\apiwithpostgredocker\\apiwithpostgredocker\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7701958-4C04-4C6D-890B-15252BF4F7FE}|APIWithPostgreDocker\\APIWithPostgreDocker.csproj|solutionrelative:apiwithpostgredocker\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7701958-4C04-4C6D-890B-15252BF4F7FE}|APIWithPostgreDocker\\APIWithPostgreDocker.csproj|c:\\users\\knatua\\source\\repos\\apiwithpostgredocker\\apiwithpostgredocker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7701958-4C04-4C6D-890B-15252BF4F7FE}|APIWithPostgreDocker\\APIWithPostgreDocker.csproj|solutionrelative:apiwithpostgredocker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAAJkBAAAAAAAAAAApwKgBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-18T13:40:13.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-18T10:28:14.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-18T10:28:10.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\APIWithPostgreDocker\\Dockerfile",
+              "RelativeDocumentMoniker": "APIWithPostgreDocker\\Dockerfile",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\APIWithPostgreDocker\\Dockerfile",
+              "RelativeToolTip": "APIWithPostgreDocker\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-18T10:17:48.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\APIWithPostgreDocker\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "APIWithPostgreDocker\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\APIWithPostgreDocker\\Controllers\\UserController.cs",
+              "RelativeToolTip": "APIWithPostgreDocker\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:25:32.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\APIWithPostgreDocker\\Program.cs",
+              "RelativeDocumentMoniker": "APIWithPostgreDocker\\Program.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\APIWithPostgreDocker\\Program.cs",
+              "RelativeToolTip": "APIWithPostgreDocker\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAxwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:23:09.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\APIWithPostgreDocker\\Data\\UserContext.cs",
+              "RelativeDocumentMoniker": "APIWithPostgreDocker\\Data\\UserContext.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\APIWithPostgreDocker\\Data\\UserContext.cs",
+              "RelativeToolTip": "APIWithPostgreDocker\\Data\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:22:42.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\APIWithPostgreDocker\\Models\\User.cs",
+              "RelativeDocumentMoniker": "APIWithPostgreDocker\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\APIWithPostgreDocker\\Models\\User.cs",
+              "RelativeToolTip": "APIWithPostgreDocker\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:22:12.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\APIWithPostgreDocker\\appsettings.json",
+              "RelativeDocumentMoniker": "APIWithPostgreDocker\\appsettings.json",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\APIWithPostgreDocker\\APIWithPostgreDocker\\appsettings.json",
+              "RelativeToolTip": "APIWithPostgreDocker\\appsettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvw0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T10:20:58.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

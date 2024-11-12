@@ -1,0 +1,49 @@
+name: dockercompose6815945019280524947
+services:
+  db:
+    container_name: db
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_PASSWORD: kaushik@123
+      POSTGRES_USER: postgres
+    image: postgres:12
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 5432
+      published: "5432"
+      protocol: tcp
+    volumes:
+    - type: volume
+      source: pgdata
+      target: /var/lib/postgresql/data
+      volume: {}
+  finalproject_.net8webapiwithdocker:
+    build:
+      context: C:\Users\knatua\source\repos\FinalProject_.NET8WebAPIWithDocker
+      dockerfile: FinalProject_.NET8WebAPIWithDocker/Dockerfile
+    depends_on:
+      db:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ConnectionStrings__DefaultConnection: Host=db;Port=5432;Database=postgres;Username=postgres;Password=kaushik@123
+    image: finalprojectnet8webapiwithdocker
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "8080"
+      protocol: tcp
+    - mode: ingress
+      target: 8080
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose6815945019280524947_default
+volumes:
+  pgdata:
+    name: dockercompose6815945019280524947_pgdata

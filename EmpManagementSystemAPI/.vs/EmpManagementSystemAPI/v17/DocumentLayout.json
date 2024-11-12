@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\knatua\\source\\repos\\EmpManagementSystemAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F928537-0687-4CAD-8AD0-AC50CAB46A34}|EmployeeManagementSystemAPITests\\EmployeeManagementSystemAPITests.csproj|c:\\users\\knatua\\source\\repos\\empmanagementsystemapi\\employeemanagementsystemapitests\\mockrepotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F928537-0687-4CAD-8AD0-AC50CAB46A34}|EmployeeManagementSystemAPITests\\EmployeeManagementSystemAPITests.csproj|solutionrelative:employeemanagementsystemapitests\\mockrepotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E5695D-2A13-4FF0-9508-6BDC3BF72BAB}|EmpManagementSystemAPI\\EmpManagementSystemAPI.csproj|c:\\users\\knatua\\source\\repos\\empmanagementsystemapi\\empmanagementsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E5695D-2A13-4FF0-9508-6BDC3BF72BAB}|EmpManagementSystemAPI\\EmpManagementSystemAPI.csproj|solutionrelative:empmanagementsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E5695D-2A13-4FF0-9508-6BDC3BF72BAB}|EmpManagementSystemAPI\\EmpManagementSystemAPI.csproj|c:\\users\\knatua\\source\\repos\\empmanagementsystemapi\\empmanagementsystemapi\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E5695D-2A13-4FF0-9508-6BDC3BF72BAB}|EmpManagementSystemAPI\\EmpManagementSystemAPI.csproj|solutionrelative:empmanagementsystemapi\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E5695D-2A13-4FF0-9508-6BDC3BF72BAB}|EmpManagementSystemAPI\\EmpManagementSystemAPI.csproj|c:\\users\\knatua\\source\\repos\\empmanagementsystemapi\\empmanagementsystemapi\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E5695D-2A13-4FF0-9508-6BDC3BF72BAB}|EmpManagementSystemAPI\\EmpManagementSystemAPI.csproj|solutionrelative:empmanagementsystemapi\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E5695D-2A13-4FF0-9508-6BDC3BF72BAB}|EmpManagementSystemAPI\\EmpManagementSystemAPI.csproj|c:\\users\\knatua\\source\\repos\\empmanagementsystemapi\\empmanagementsystemapi\\controllers\\employeeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E5695D-2A13-4FF0-9508-6BDC3BF72BAB}|EmpManagementSystemAPI\\EmpManagementSystemAPI.csproj|solutionrelative:empmanagementsystemapi\\controllers\\employeeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E5695D-2A13-4FF0-9508-6BDC3BF72BAB}|EmpManagementSystemAPI\\EmpManagementSystemAPI.csproj|c:\\users\\knatua\\source\\repos\\empmanagementsystemapi\\empmanagementsystemapi\\models\\employeedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E5695D-2A13-4FF0-9508-6BDC3BF72BAB}|EmpManagementSystemAPI\\EmpManagementSystemAPI.csproj|solutionrelative:empmanagementsystemapi\\models\\employeedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\EmpManagementSystemAPI\\EmpManagementSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmpManagementSystemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\EmpManagementSystemAPI\\EmpManagementSystemAPI\\Program.cs",
+              "RelativeToolTip": "EmpManagementSystemAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:26:26.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\EmpManagementSystemAPI\\EmpManagementSystemAPI\\Controllers\\EmployeeAPIController.cs",
+              "RelativeDocumentMoniker": "EmpManagementSystemAPI\\Controllers\\EmployeeAPIController.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\EmpManagementSystemAPI\\EmpManagementSystemAPI\\Controllers\\EmployeeAPIController.cs",
+              "RelativeToolTip": "EmpManagementSystemAPI\\Controllers\\EmployeeAPIController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:42:19.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MockRepoTests.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\EmpManagementSystemAPI\\EmployeeManagementSystemAPITests\\MockRepoTests.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystemAPITests\\MockRepoTests.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\EmpManagementSystemAPI\\EmployeeManagementSystemAPITests\\MockRepoTests.cs",
+              "RelativeToolTip": "EmployeeManagementSystemAPITests\\MockRepoTests.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:44:23.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\EmpManagementSystemAPI\\EmpManagementSystemAPI\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmpManagementSystemAPI\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\EmpManagementSystemAPI\\EmpManagementSystemAPI\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmpManagementSystemAPI\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAFIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:37:04.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\EmpManagementSystemAPI\\EmpManagementSystemAPI\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmpManagementSystemAPI\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\EmpManagementSystemAPI\\EmpManagementSystemAPI\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmpManagementSystemAPI\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:31:47.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDB.cs",
+              "DocumentMoniker": "C:\\Users\\knatua\\source\\repos\\EmpManagementSystemAPI\\EmpManagementSystemAPI\\Models\\EmployeeDB.cs",
+              "RelativeDocumentMoniker": "EmpManagementSystemAPI\\Models\\EmployeeDB.cs",
+              "ToolTip": "C:\\Users\\knatua\\source\\repos\\EmpManagementSystemAPI\\EmpManagementSystemAPI\\Models\\EmployeeDB.cs",
+              "RelativeToolTip": "EmpManagementSystemAPI\\Models\\EmployeeDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:28:42.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

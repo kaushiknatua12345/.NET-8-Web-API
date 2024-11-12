@@ -1,0 +1,18 @@
+services:
+  apiwithpostgredocker:
+    build:
+      context: C:\Users\knatua\source\repos\APIWithPostgreDocker
+      dockerfile: APIWithPostgreDocker/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: apiwithpostgredocker
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 8080
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose11859776735482520216_default
