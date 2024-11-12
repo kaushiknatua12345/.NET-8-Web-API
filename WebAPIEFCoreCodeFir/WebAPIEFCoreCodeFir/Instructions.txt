@@ -1,0 +1,9 @@
+1. Download the below nugget packages:
+(a) Microsoft.EntityFrameworkCore
+(b) Microsoft.EntityFrameworkCore.Tools
+(c) Npgsql.EntityFrameworkCore.PostgreSQL
+(d) Npgsql.EntityFrameworkCore.PostgreSQL.Design
+
+2. Start reverse-engineering your database from the PostgreSQL database to Code Models. To do this execute the following in Nugget Manager Console:
+example: dotnet ef dbcontext scaffold "Host=localhost;Database=mydatabase;Username=myuser;Password=mypassword" Npgsql.EntityFrameworkCore.PostgreSQL -o Models
+
